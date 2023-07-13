@@ -25,3 +25,10 @@ Open the project files in a code editor.
 Start a local server or use a tool like Live Server to run the project.
 Access the project through the local server in a web browser.
 Please ensure that you have a compatible browser with webcam support to run the project.
+
+
+https://github.com/venkateshwebdev/magassesment/assets/105224564/f1aea75a-d4c2-4bec-8f08-e2fb1e3e93ee
+
+
+
+
