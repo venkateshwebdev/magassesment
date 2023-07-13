@@ -1,4 +1,3 @@
-Project README.md
 This project showcases the integration of Three.js and MediaPipe's HandLandmarker to create an interactive cube controlled by hand gestures.
 
 Three.js
